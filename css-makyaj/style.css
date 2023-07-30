@@ -1,0 +1,41 @@
+#sayfa-basi {
+    background-color: gray;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h1{
+    border-bottom: solid #32a1ce;
+    color: #32a1ce;
+    font-style: bold;
+}
+
+.menuitems{
+    background-color: gray;
+    padding: 10px;
+    border-radius: 5px;
+   text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+}
+
+.thumbnail {
+    border: dashed;
+}
+
+
+h2, h3 {
+    color: rgb(46, 8, 46);
+    font-style: bold;
+  }
+
+
+body {
+    font-family: "Calibri", sans-serif;
+    font-size: 24px;
+    margin:0 auto;
+    width: 70%;
+    background-color: rgb(201, 218, 206);
+}
